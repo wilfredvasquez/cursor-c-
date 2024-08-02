@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
 /*
-Este programa fue hecho como ejemplo para Código que Transforma
-Su autor es Wilfred Vásquez
+Este es un comentario de
+Dos líneas
 */
 
 int main() {
-    // Aquí se inicia el programa
+    // Este es un comentario de una línea
     cout << "Hola mundo" << endl;
     cout << "Texto de ejemplo";
     return 0;

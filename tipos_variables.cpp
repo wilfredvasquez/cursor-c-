@@ -2,24 +2,20 @@
 using namespace std;
 
 int main(){
-    // Entero
     int num = 3;
 
-    // Decimales
-    float temp = 5.6;
-    double radio = 5.248;
+    float area = 3.6;
+    double distancia = 125.025414741;
 
-    // Caracter
-    char letra = 'C';
-    // Cadena de texto
+    char caracter = 'C';
     string texto = "Esto es un texto";
 
-    // Booleano
-    bool verdadero = true;
+    bool teGustaElCanal = true;
 
-    // Constante Decimal
-    const float PI = 3.1416;
+    unsigned int positivo = 80;
+    const double PI = 3.1416;
 
     cout << num;
+
     return 0;
 }
